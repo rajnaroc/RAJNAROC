@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center"> Hola a todos, Yo soy Cristian muñoz 👋 </h1>
+  <h1 align="center"> Hola a todos, Yo soy Aaron muñoz 👋 </h1>
 </div>
 
 ![Alt text](./Banner_git_hub_finalizado.png)
@@ -22,12 +22,8 @@
 <br>
 
 
-- 🔭 Generalmente trabajando con: python, Javascript, CSS, C++, ArduinoCode
-- 🌱 Libros ya leídos: "Algoritmos y estructuras de datos en Python" - Walter Bel, "Patrones de diseño" - Alexander Shvets, "El shell Bash".
-- 🌱 Libros en proceso de lectura: "Fundamentos de sistemas operativos" - silberschatz, "Profesional C# and .NET" - Christian N - Jay G - Morgan S
-- 📫 Contactame por correo: Cristian.jovani2001@gmail.com 
-- ⚡ Fun fact: Las animaciones que agrego suelen tener más duración de la necesaria
-
+- 🔭 Generalmente trabajando con: Python, Javascript, CSS, HTML
+- 📫 Contactame por correo: aaroncm611@gmail.com 
   
 <!-- Comienzo de lo que encontrarás en el repositorio -->
 <br>
