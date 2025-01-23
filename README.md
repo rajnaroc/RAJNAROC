@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1 align="center"> Hola a todos, Yo soy Aaron Campos👋 </h1>
+  <h1 align="center"> Hola a todos, Yo soy Aaron👋 </h1>
 </div>
 
 ![Alt text](https://i.redd.it/i87a79au6gt21.gif)
