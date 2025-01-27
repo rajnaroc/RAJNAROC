@@ -15,3 +15,15 @@
 ## Lenguajes más usados
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=rajnaroc&layout=compact&theme=radical)
+
+## Lenguajes y Herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+## Contribuciones
+
+- He contribuido a varios proyectos de código abierto, como:
+  - [Proyecto A](https://github.com/usuario/proyectoA)
+  - [Proyecto B](https://github.com/usuario/proyectoB)
