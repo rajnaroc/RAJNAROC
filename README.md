@@ -21,4 +21,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=vue.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
