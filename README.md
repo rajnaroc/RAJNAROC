@@ -24,3 +24,5 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
+![Tailwindcss ](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwindcss )
