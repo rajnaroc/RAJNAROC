@@ -22,3 +22,4 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
